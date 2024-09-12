@@ -1,0 +1,7 @@
+../Drivers/Device Drivers/HMC5883/HMC5883.c:14:16:HMC5883_Init	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:44:16:HMC5883_Set_Sample	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:71:16:HMC5883_Set_Rate	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:99:16:HMC5883_Set_MeasurteMode	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:127:16:HMC5883_Set_Gain	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:153:16:HMC5883_Set_OperatingMode	24	static
+../Drivers/Device Drivers/HMC5883/HMC5883.c:181:16:HMC5883_Get_Readings	24	static
